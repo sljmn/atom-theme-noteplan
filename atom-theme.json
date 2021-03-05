@@ -76,7 +76,8 @@
         },
 
         "italic": {
-            "font": "AvenirNext-Italic"
+            "font": "AvenirNext-Italic",
+            "color": "#56B6C2"
         },
 
         "italic-left-mark": {
