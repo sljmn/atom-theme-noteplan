@@ -3,13 +3,13 @@
     "style": "Dark",
     "author": {
         "name": "S",
-        "email": "sulejdev@gmail.com"
+        " email": "sulejdev@gmail.com "
     },
 
     "editor": {
         "backgroundColor": "#282C34",
         "altBackgroundColor": "#262A33",
-        "tintColor": "#61AFFF",
+        "tintColor": "#FB6B73",
         "tintColor2": "#ECCB84",
         "textColor":"#C7C6CC",
         "toolbarBackgroundColor": "#434551",
