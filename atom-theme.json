@@ -146,7 +146,7 @@
         },
         
         "quote-content": {
-            "color": "#C7C6CC",
+            "color": "#C678DD",
             "type": "italic",
             "headIndent": 33
         },
@@ -184,4 +184,5 @@
         }
     }
 }
+
 
