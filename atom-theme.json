@@ -27,13 +27,13 @@
         },
         
         "title1": {
-            "color": "#EB7381",
+            "color": "#E69A66",
             "size": 28,
             "font": "AvenirNext-DemiBold"
         },
         
         "title2": {
-            "color": "#EB7381",
+            "color": "#FBC07B",
             "size": 24,
             "font": "AvenirNext-DemiBold"
         },
